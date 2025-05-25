@@ -9,6 +9,9 @@ This project explores the relationship between digital behaviors (such as screen
   - Pivot tables and grouped summaries
   - Key insights comparing user groups
   - A dashboard with high-level metrics
+- **original kaggle data set**
+  - https://www.kaggle.com/datasets/atharvasoundankar/mental-health-and-digital-behavior-20202024
+  - mental_health_digital_behavior_data.csv
 
 ## 📌 Key Insights
 - Users who sleep **7–8 hours** per night tend to report **higher focus** and **lower anxiety**.
@@ -30,5 +33,5 @@ This project explores the relationship between digital behaviors (such as screen
 
 ## 🙌 Author
 Created by Angel Gonzalez as part of a portfolio demonstrating data analysis skills using spreadsheet tools.
-
+Data comes from Kaggle: https://www.kaggle.com/datasets/atharvasoundankar/mental-health-and-digital-behavior-20202024
 ---
